@@ -4,6 +4,9 @@
 
 dPIR is a Python-based utility that simplifies the installation, configuration, and running of dnsmasq. It's designed to help developers quickly set up `.test` domains for local development environments.
 
+> [!IMPORTANT]\
+> dnsmasq is not typically used on Windows. Consider using WSL for a Linux environment.
+
 ## Table of Contents
 
 - [Features](#features)
@@ -16,7 +19,7 @@ dPIR is a Python-based utility that simplifies the installation, configuration, 
 ## Features
 
 - Automated installation of dnsmasq on Linux and macOS.
-- Configuration of `.test` domains.
+- Configuration of `.test`, `.local`, and `.localhost` domains.
 - Starting dnsmasq service.
 
 ## Requirements
