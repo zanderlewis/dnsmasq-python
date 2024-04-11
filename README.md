@@ -8,7 +8,7 @@ dPIR is a Python-based utility that simplifies the installation, configuration, 
 > dnsmasq is not typically used on Windows. Consider using WSL for a Linux environment.
 
 > [!NOTE]\
-> dPIR does not run development servers. You must start your development server first.
+> dPIR does not run development servers. You must start your development server first. Additionally, dPIR must be running before you view your newly created development server.
 
 ## Table of Contents
 
