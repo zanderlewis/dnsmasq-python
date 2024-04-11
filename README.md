@@ -55,4 +55,4 @@ We welcome contributions to dPIR! If you'd like to contribute, follow these step
 
 ## License
 
-dPIR is licensed under the Apache 2.0 License. See the [LISCENSE](LICENSE) file for more details.
+dPIR is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for more details.
